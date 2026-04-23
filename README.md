@@ -1,4 +1,4 @@
-Hi, I'm Gabriela 👋
+Hi, I'm Gabe
 
 I'm an Electronic Engineering student with hands-on experience in Power Platform development, focused on Power Apps, PCF, Power Automate, and SharePoint-based business solutions.
 
